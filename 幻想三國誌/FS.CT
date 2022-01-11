@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="38">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"銀兩"</Description>
+      <LastState Value="3722304989" RealAddress="135E705C"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FS.exe+4DC6AC</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>2B4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11</ID>
+      <Description>"姬軒"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"經驗值"</Description>
+          <LastState Value="1764" RealAddress="12F24BEC"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEE0</Address>
+          <Offsets>
+            <Offset>300</Offset>
+            <Offset>178</Offset>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"精元值"</Description>
+          <LastState Value="9119" RealAddress="12F24BE8"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>2FC</Offset>
+            <Offset>15C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>17</ID>
+      <Description>"貂芷"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"經驗值"</Description>
+          <LastState Value="2549" RealAddress="16BDC624"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>300</Offset>
+            <Offset>3E0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"精元值"</Description>
+          <LastState Value="9112" RealAddress="16BDC620"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>2FC</Offset>
+            <Offset>3E0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"糜香"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"經驗值"</Description>
+          <LastState Value="2967" RealAddress="16A65624"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>300</Offset>
+            <Offset>664</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"精元值"</Description>
+          <LastState Value="5501" RealAddress="16A65620"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>2fc</Offset>
+            <Offset>664</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>30</ID>
+      <Description>"燕起"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"經驗值"</Description>
+          <LastState Value="1764" RealAddress="16A69574"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>300</Offset>
+            <Offset>8E8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"精元值"</Description>
+          <LastState Value="9112" RealAddress="16A69570"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>2FC</Offset>
+            <Offset>8E8</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"趙雲"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"經驗值"</Description>
+          <LastState Value="2530" RealAddress="16A6D4C4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>300</Offset>
+            <Offset>B6C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>38</ID>
+          <Description>"精元值"</Description>
+          <LastState Value="9010" RealAddress="16A6D4C0"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>2FC</Offset>
+            <Offset>B6C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"經驗值"</Description>
+          <LastState Value="2530" RealAddress="16A6D4C4"/>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>FS.exe+4DFEC4</Address>
+          <Offsets>
+            <Offset>300</Offset>
+            <Offset>B6C</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
