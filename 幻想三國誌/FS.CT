@@ -193,6 +193,18 @@
         </CheatEntry>
       </CheatEntries>
     </CheatEntry>
+    <CheatEntry>
+      <ID>51</ID>
+      <Description>"地圖遇敵"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>FS.exe+4DFEE0</Address>
+      <Offsets>
+        <Offset>EC</Offset>
+        <Offset>90A8</Offset>
+        <Offset>20</Offset>
+      </Offsets>
+    </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
 </CheatTable>
